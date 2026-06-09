@@ -1,0 +1,5 @@
+interface:
+  display_name: "Visual Learning Report"
+  short_description: "Create Obsidian-ready visual learning packages from difficult sources."
+  icon: "🧠"
+  color: "#7ddc5c"
